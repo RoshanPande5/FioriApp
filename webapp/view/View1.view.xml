@@ -5,5 +5,7 @@
     <Label id="_IDGenLabel" text="Hii"/>
     <Label id="_IDGenLabel1" text="This is Fiori Application"/>
 
+    <Text id="_IDGenText" text="Its working"></Text>
+
     </Page>
 </mvc:View>
