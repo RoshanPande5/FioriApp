@@ -4,5 +4,6 @@
     <Page id="page" title="{i18n>title}">
     <Label id="_IDGenLabel" text="Hii"/>
 
+
     </Page>
 </mvc:View>
