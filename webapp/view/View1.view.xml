@@ -3,7 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     <Label id="_IDGenLabel" text="Hii"/>
-
+    <Label id="_IDGenLabel1" text="This is Fiori Application"/>
 
     </Page>
 </mvc:View>
