@@ -3,8 +3,8 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     <Label id="_IDGenLabel" text="Hii.."/>
-    <Button id="_IDGenButton" text="Click Here...." type="Emphasized" press="onPress"/>
-   
+    <Button id="_IDGenButton" text="Click Here" type="Emphasized" press="onPress"/>
+   <Label id="_IDGenLabel1" text="Added auth apiaccess"/>
 
   
 
