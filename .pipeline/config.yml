@@ -69,11 +69,11 @@ stages:
   'Confirm':
     manualConfirmation: false
 
-  Release:
-    cfTargets:
-      - org: '836b8da5trial'
-        space: 'dev'
-        apiEndpoint: 'https://api.cf.us10-001.hana.ondemand.com'
-        appName: 'fioriapp'
-        manifest: 'manifest.json'
-        credentialsId: 'cftraildev'
+  # Release:
+  #   cfTargets:
+  #     - org: '836b8da5trial'
+  #       space: 'dev'
+  #       apiEndpoint: 'https://api.cf.us10-001.hana.ondemand.com'
+  #       appName: 'fioriapp'
+  #       manifest: 'manifest.json'
+  #       credentialsId: 'cftraildev'
