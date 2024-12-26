@@ -7,8 +7,8 @@ sap.ui.define([
     return Controller.extend("fioriapp.controller.View1", {
         onInit() {
         },
-        onPress : function () {
-            MessageToast.show("Button Clicked");
+        onPress : function () { 
+             MessageToast.show("Button Clicked");
         }
     });
 });
