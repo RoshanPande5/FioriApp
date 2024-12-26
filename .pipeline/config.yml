@@ -75,5 +75,5 @@ stages:
         space: 'dev'
         apiEndpoint: 'https://api.cf.us10-001.hana.ondemand.com'
         appName: 'fioriapp'
-        manifest: 'manifest.yml'
+        manifest: 'manifest.json'
         credentialsId: 'cftraildev'
